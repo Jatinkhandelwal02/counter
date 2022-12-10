@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    margin: 0;
+    background-color:cornflowerblue;
+}
+.container{
+    padding-top: 25%;
+}
+.button{
+    padding-top: 2%;
+}
+.btn{
+    margin-right: 1%;
+}
+.value{
+    color: black;
+    font-weight: bold;
+    font-size:xx-large;
+}
